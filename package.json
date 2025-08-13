@@ -1,0 +1,14 @@
+{
+  "name": "js-tutorial-study",
+  "version": "1.0.0",
+  "description": "ko.javascript.info 기반 JavaScript 학습 프로젝트",
+  "type": "module",
+  "scripts": {
+    "test": "node --test",
+    "format": "prettier --write ."
+  },
+  "devDependencies": {
+    "prettier": "^3.3.3"
+  }
+}
+        
